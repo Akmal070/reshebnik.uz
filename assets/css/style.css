@@ -2871,8 +2871,8 @@ body.slidein .responsive-menu {
   max-width: 255px;
   margin-bottom: 48px;
 }
-.footer-about .logo > a {max-width: 50px;}
-.footer-about .logo + p {margin-top: 35px;}
+.footer-about .logo > a {max-width: 200px;}
+.footer-about .logo + p {margin-top: 25px;}
 .footer-widget-wrap {
   flex: 0 0 calc(100% - 255px);
   padding-left: 60px;
